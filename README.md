@@ -7,6 +7,4 @@ The st-gcn used for pose predicting
 
 - [Social-STGCNN](https://github.com/abduallahmohamed/Social-STGCNN) 
 
-The STGCNN used for path predicting
-# NBA-STGCNN
-# NBA-STGCNN
+
